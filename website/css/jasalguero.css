@@ -1,0 +1,156 @@
+/** Main CSS file for the site **/
+/****************************************************************************/
+/*						THEME SUMMARY										*/
+/*																			*/
+/*		Main background color: 		#303030									*/
+/* 		Header font color: 			#222 									*/
+/*		Header font:				Aller Display							*/
+/* 		Menu main color:			#BBBBBB									*/
+/*		Menu alternate color:		#C24747									*/
+/* 																			*/
+/* 																			*/
+/****************************************************************************/
+body {
+    background-color: #303030;
+    background: url('../img/bg.png') repeat scroll 0 0 #474747
+}
+
+#container {
+    width: 800px;
+    margin-left: 120px;
+    margin-top: 120px;
+}
+
+/**
+ * HEADER
+ */
+/*div#header * {
+ color: #AAAAAA;
+ font-family: Helvetica, Arial, sans-serif;
+ text-shadow: -3px 2px rgba(0, 0, 0, 0.4), 3px -4px rgba(0, 0, 0, 0.4), 0 1px rgba(255, 255, 255, 0.5), -3px -2px rgba(0, 0, 0, 0.3);
+ }*/
+#header {
+    width: 400px;
+}
+
+div#header * {
+    color: #222;
+    font-family: Helvetica, Arial, sans-serif;
+    text-shadow: 0px 2px 3px #555;
+}
+
+div#header h1 {
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+div#header h2 {
+    font-size: 30px;
+    margin-top: -20px;
+    margin-right: 20px;
+    text-align: right;
+}
+
+/**
+ * MENU
+ */
+div#menuContainer {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#menu li {
+    padding: 2px;
+}
+
+#menu li a {
+    display: block;
+    height: 31px;
+    text-indent: -999em;
+}
+
+#menu a.About {
+    width: 121px;
+    background: url(../img/M_About.png) no-repeat 0 0;
+}
+
+#menu a.CV {
+    width: 50px;
+    background: url(../img/M_CV.png) no-repeat 0 0;
+}
+
+#menu a.Blog {
+    width: 94px;
+    background: url(../img/M_Blog.png) no-repeat 0 0;
+}
+
+#menu a.Contact {
+    width: 160px;
+    background: url(../img/M_Contact.png) no-repeat 0 0;
+}
+
+.menuContent {
+    background: none repeat scroll 0 0 #222222;
+    color: #555555;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    padding: 15px;
+    text-shadow: 0 2px 3px #171717;
+    width: 500px;
+    display: none;
+    -moz-border-radius: 10px;
+    -moz-box-shadow: 0 2px 3px #555555;
+    -webkit-box-shadow: 0px 2px 3px #555;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    behavior: url(css/PIE.htc);
+    border-radius: 10px;
+}
+
+#content {
+}
+
+/**
+ * CONTACT FORM
+ */
+#contactForm label, h2 {
+    color: #BBBBBB;
+	text-align:center;
+}
+
+#contactForm label {
+    float: left;
+    margin-right: 15px;
+    padding-top: 5px;
+    text-align: right;
+    width: 100px;
+	display:block;
+}
+
+#contactForm input.text, textarea {
+    text-align: left;
+    border: 2px solid #CCCCCC;
+    font-family: Helvetica, sans-serif;
+    margin: 10px 0 10px;
+    padding: 5px;
+    width: 300px;
+	clear:right;
+	display:block;
+}
+
+#contactForm input.submit {
+	display: block;
+    padding: 2px 15px;
+    font: bold 12px / 12px;
+	clear:both;
+	margin:auto;
+}
+
