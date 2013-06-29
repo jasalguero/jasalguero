@@ -52,7 +52,7 @@ h2.about { background: url(../images/about.png) no-repeat -10px -10px; }
 h2.contact { background: url(../images/contact.png) no-repeat -10px -10px; }
 
 a { color: #7ac000; text-decoration: none; padding-bottom: 2px; }
-a:hover { color: #ff5400; text-decoration: none; border-bottom: 1px solid #ff5400; padding-bottom: 2px; }
+a:hover { color: #7ac000; text-decoration: none; border-bottom: 1px solid #ff5400; padding-bottom: 2px; }
 a:active { color: #ff5400; text-decoration: none; border-bottom: 1px solid #ff5400; padding-bottom: 2px; position: relative; top: 1px; }
 
 p { font-size: 24px; margin-bottom: 15px; line-height: 36px; }
@@ -79,7 +79,8 @@ section { margin-bottom: 1000px; padding-top: 150px; float: left; }
 #blog ul.work a img { border: 5px solid rgba(122, 192, 0, 0.15); -webkit-border-radius: 5px; }
 #blog ul.work { float: left; margin-left: -15px; width: 975px;  }
 #blog ul.work li { list-style: none; float: left; margin-left: 15px; margin-bottom: 15px; }
-#blog a:hover{border:0;cursor:pointer;}
+#blog a:hover{border:0;cursor:pointer;color:#7ac000;}
+#blog a i:hover{color:#ff5400;}
 #blog h2 {padding:0;text-align: center;}
 
 #contact { margin-bottom: 0px; }
