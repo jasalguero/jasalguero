@@ -6,7 +6,7 @@ aside, nav, article, figure {
 	display: block;
 }
 
-body { font-family: 'Open Sans', sans-serif; color: #4b4b4b; background: url(../images/scribble_light.png); text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2); }
+body { font-family: 'Open Sans', sans-serif; color: #4b4b4b; background: url(../images/scribble_light.png); text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2); font-size: 24px;}
 
 ::selection { background-color: rgb(66, 131, 182,); }
 ::-moz-selection { background-color: rgba(122, 192, 0, 0.2); border: 10px solid red; }
@@ -32,10 +32,10 @@ h2.about { background: url(../images/about.png) no-repeat -10px -10px; }
 h2.contact { background: url(../images/contact.png) no-repeat -10px -10px; }
 
 a { color: rgb(66, 131, 182);; text-decoration: none; padding-bottom: 2px; }
-a:hover { color: #ff5400; text-decoration: none; border-bottom: 5px solid #ff5400; padding-bottom: 2px; }
+a:hover { color: #ff5400; text-decoration: none; border-bottom: 6px solid #ff5400; padding-bottom: 0px; }
 a:active { color: #ff5400; text-decoration: none; border-bottom: 1px solid #ff5400; padding-bottom: 2px; position: relative; top: 1px; }
 
-p { font-size: 24px; margin-bottom: 15px; line-height: 36px; }
+p { margin-bottom: 15px; line-height: 36px; }
 strong { font-family: KeffeesatzBold, Arial; }
 
 header { padding: 5px 0; width: 100%; background-color: #000; margin-bottom: 25px; -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); position: fixed; z-index: 10; float: left; }
@@ -90,3 +90,52 @@ footer ul li a { font-size: 24px; margin-left: 10px; }
 footer ul li img { vertical-align: bottom; position: relative; top: 2px; }
 #twitter-sign {color: #1daee3}
 #google-sign {color: #ca3838}
+
+/*CV*/
+#cvList h3{
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+#cvList h4{
+    font-family: 'OpenSans-Extrabold';
+    font-weight: bold;
+    font-size: 29px;
+    margin-top: 20px;
+    /*maring-bottom: 5px;*/
+}
+
+#cvList ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+/*#cvList li:before {*/
+    /*content: '\2192';*/
+    /*float: left;*/
+/*}*/
+
+#cvList p {
+    margin-top: 5px;
+    display: block;
+    color: lightslategray;
+    font-size: 20px;
+}
+#cvList p:hover {
+    /*background-color: #121212;*/
+}
+#cvList li {
+    text-indent: 0px;
+    background-position: 1px 11px;
+    padding-left: 20px;
+}
+
+#cvList a {
+    padding-left: 30px;
+}
+
+#cvList .title {
+
+}
