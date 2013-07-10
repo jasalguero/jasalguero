@@ -1,0 +1,14 @@
+*.iml
+*.ipr
+*.iws
+.idea/
+src/main/conf/target/
+target/
+src/main/conf/envs/gchimeno/
+atlassian-ide-plugin.xml
+configure.sh
+.DS_Store
+logs/
+.settings
+.project
+.classpath
