@@ -71,15 +71,27 @@ label { color: #ff5400; }
 input, textarea { background-color: rgba(255, 255, 255, 0.4); border: 5px solid rgba(66, 131, 182, 0.15); padding: 10px; font-family: Keffeesatz, Arial; color: #4b4b4b; font-size: 24px; -webkit-border-radius: 5px; border-radius: 5px; margin-bottom: 15px; margin-top: -10px; }
 input:focus, textarea:focus { border: 5px solid rgb(66, 131, 182); background-color: rgba(255, 255, 255, 1); }
 
-input[type="submit"] { border: none; cursor: pointer; color: #fff; font-size: 24px; background-color: rgb(66, 131, 182); padding: 5px 36px 8px 36px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6); border-bottom: 1px solid rgba(0, 0, 0, 0.4); border-top: 1px solid rgba(255, 255, 255, 0.6);
+input[type="submit"],button { border: none; cursor: pointer; color: #fff; font-size: 24px; background-color: rgb(66, 131, 182); padding: 5px 36px 8px 36px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6); border-bottom: 1px solid rgba(0, 0, 0, 0.4); border-top: 1px solid rgba(255, 255, 255, 0.6);
 	 background: -webkit-gradient( linear, left bottom, left top, color-stop(0.23, rgb(21, 84, 133)), color-stop(0.62, rgb(66, 131, 182)) );
 	 background: -moz-linear-gradient( center bottom, rgb(21, 84, 133) 23%, rgb(66, 131, 182)62% );
 }
 
-input[type="submit"]:hover { color: #fff; border-bottom: 1px solid rgba(0, 0, 0, 0.4); background-color: #ff5400;
+input[type="submit"]:hover,button:hover { color: #fff; border-bottom: 1px solid rgba(0, 0, 0, 0.4); background-color: #ff5400;
 	 background: -webkit-gradient(      linear,      left bottom,      left top,      color-stop(0.23, #c34000),      color-stop(0.62, #ff5400)  );
 	 background: -moz-linear-gradient(      center bottom,      #c34000 23%,      #ff5400 62%  );
 }
+
+.disabled{
+    background: lightgrey !important;
+    cursor: not-allowed !important;
+    display: none;
+}
+
+#recaptcha{
+    float: left;
+    margin-right: 100px;
+}
+
 
 input[type="submit"]:active { position: relative; top: 1px; }
 
