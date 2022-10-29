@@ -36,3 +36,12 @@
 <br/>
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jasalguero&show_icons=true&theme=gotham" alt="jasalguero_github" />
+  
+<br/>  
+
+## Recent Activity
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
