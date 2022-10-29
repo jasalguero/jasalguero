@@ -1,8 +1,8 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c2790133-6e42-48fa-87e5-b1e61c87b7be/deploy-status)](https://app.netlify.com/sites/jasalguero/deploys)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/c2790133-6e42-48fa-87e5-b1e61c87b7be/deploy-status)](https://app.netlify.com/sites/jasalguero/deploys)
 </div>
 
 ## About me
