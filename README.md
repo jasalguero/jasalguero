@@ -43,13 +43,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
-2. ⬆️ Pushed 3 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
-3. ⬆️ Pushed 1 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
-4. ⬆️ Pushed 2 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
-5. 📔 Created new repository [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
+1. 🤝 Became collaborator on [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
+2. 📖 Created new wiki page [Home](https://github.com/jasalguero/audio-prototype/wiki/Home) in [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
+3. ⬆️ Pushed 2 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
+4. ⬆️ Pushed 1 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
+5. ⬆️ Pushed 3 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 13th, 2023, 1:56:17 AM
+Last Updated: Friday, April 14th, 2023, 1:55:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
