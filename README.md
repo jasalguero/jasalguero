@@ -44,12 +44,12 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
-2. ⬆️ Pushed 1 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
-3. ⬆️ Pushed 1 commit(s) to [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
-4. ✔️ Closed issue [#4](https://github.com/jasalguero/audio-prototype/issues/4) in [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
-5. 💬 Commented on [#4](https://github.com/jasalguero/audio-prototype/issues/4#issuecomment-1531370976) in [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
+2. 🎉 Merged PR [#5](https://github.com/jasalguero/audio-prototype/pull/5) in [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
+3. ❌ Closed PR [#5](https://github.com/jasalguero/audio-prototype/pull/5) in [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
+4. 💬 Commented on [#5](https://github.com/jasalguero/audio-prototype/pull/5#issuecomment-1570619869) in [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
+5. 💪 Opened PR [#5](https://github.com/jasalguero/audio-prototype/pull/5) in [jasalguero/audio-prototype](https://github.com/jasalguero/audio-prototype)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 31st, 2023, 2:19:46 AM
+Last Updated: Thursday, June 1st, 2023, 2:44:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
