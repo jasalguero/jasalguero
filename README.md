@@ -43,9 +43,10 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jasalguero/website](https://github.com/jasalguero/website)
+1. ❌ Closed PR [#1](undefined) in [jasalguero/website](https://github.com/jasalguero/website)
+2. ⬆️ Pushed undefined commit(s) to [jasalguero/website](https://github.com/jasalguero/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 12th, 2026, 5:13:22 AM
+Last Updated: Sunday, September 13th, 2026, 5:28:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
