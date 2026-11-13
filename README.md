@@ -43,13 +43,13 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [jasalguero/woof-bilbao](https://github.com/jasalguero/woof-bilbao)
-2. ⬆️ Pushed undefined commit(s) to [jasalguero/rig-handover-preview](https://github.com/jasalguero/rig-handover-preview)
-3. ⬆️ Pushed undefined commit(s) to [jasalguero/rig-handover-preview](https://github.com/jasalguero/rig-handover-preview)
-4. ⬆️ Pushed undefined commit(s) to [jasalguero/rig-handover](https://github.com/jasalguero/rig-handover)
-5. ⬆️ Pushed undefined commit(s) to [jasalguero/rig-handover-preview](https://github.com/jasalguero/rig-handover-preview)
+1. ⬆️ Pushed undefined commit(s) to [jasalguero/woof-bilbao](https://github.com/jasalguero/woof-bilbao)
+2. ⬆️ Pushed undefined commit(s) to [jasalguero/woof-bilbao](https://github.com/jasalguero/woof-bilbao)
+3. ⬆️ Pushed undefined commit(s) to [jasalguero/woof-bilbao](https://github.com/jasalguero/woof-bilbao)
+4. ⬆️ Pushed undefined commit(s) to [jasalguero/woof-bilbao](https://github.com/jasalguero/woof-bilbao)
+5. ⬆️ Pushed undefined commit(s) to [jasalguero/woof-bilbao](https://github.com/jasalguero/woof-bilbao)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 12th, 2026, 7:50:23 AM
+Last Updated: Friday, November 13th, 2026, 7:27:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
